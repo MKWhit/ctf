@@ -1,21 +1,21 @@
-CTF Field Guide
-=====
+# CTF Field Guide
 
 > “Knowing is not enough; we must apply. Willing is not enough; we must do.” - Johann Wolfgang von Goethe
 
-## Welcome!
+## Welcome! 
 
 We’re glad you’re here. We need more people like you.
 
 If you’re going to make a living in defense, you have to think like the offense.
 
-So, learn to win at Capture The Flag (CTF). These competitions distill major disciplines of professional computer security work into short, objectively measurable exercises. The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.
+So, learn to win at Capture The Flag \(CTF\). These competitions distill major disciplines of professional computer security work into short, objectively measurable exercises. The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.
 
 Whether you want to succeed at CTF, or as a computer security professional, you’ll need to become an expert in at least one of these disciplines. Ideally in all of them.
 
 That’s why we wrote this book.
 
 In these chapters, you’ll find everything you need to win your next CTF competition:
+
 * Walkthroughs and details on past CTF challenges
 * Guidance to help you design and create your own toolkits
 * Case studies of attacker behavior, both in the real world and in past CTF competitions

@@ -152,6 +152,7 @@ In general, it is far more productive to spend time playing in a CTF, then using
   * [Why You Should Not Get a CISSP](http://attrition.org/security/conferences/why_you_should_not_get_a_CISSP-public.pdf)
 
 * General Tech Advice
+
   * [Advice for Computer Science College Students](http://www.joelonsoftware.com/articles/CollegeAdvice.html)
   * [Don't call yourself a programmer, and other career advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
   * [The answer to "Will you mentor me?" is .... no.](http://pindancing.blogspot.com/2010/12/answer-to-will-you-mentor-me-is.html)
